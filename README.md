@@ -20,6 +20,7 @@ including revenue, profit, discount, customer segments, and regional performance
 - YoY Growth (Revenue & Profit)
 <img width="774" height="335" alt="image" src="https://github.com/user-attachments/assets/6296b72b-8014-4f43-9d73-b1d0029a3261" />
 <img width="806" height="331" alt="image" src="https://github.com/user-attachments/assets/6f5d8228-f984-4c8d-97b0-c56d248f0c2c" />
+
 - Loss Orders% 
 <img width="600" height="41" alt="image" src="https://github.com/user-attachments/assets/67c75fb7-3a23-4201-b530-6559f33930d3" />
 
