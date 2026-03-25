@@ -73,5 +73,5 @@ in cost of product or pricing strategy, (heavy and low discounting)
 - work on pricing strategy in regions that are making loss
 - Target profitable customer segments for growth
 
-
+- FOR MORE INSIGHTS, READ MY ARTICLE ON MEDIUM
 
